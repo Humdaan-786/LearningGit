@@ -1,0 +1,7 @@
+# write extensions and directory that we dont want to push to github
+
+
+
+.env
+.venv
+./screenshots
